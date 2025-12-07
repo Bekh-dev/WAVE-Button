@@ -1,8 +1,16 @@
 # WAVE Button - Анимированная кнопка
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="55" style="filter: brightness(0.9);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="55" style="filter: brightness(0.9);" />
+  <!-- HTML Wave -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+       width="55" 
+       style="margin-right: 30px;" 
+       title="HTML5" />
+  
+  <!-- CSS Wave -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+       width="55" 
+       title="CSS3" />
 </p>
 
 ## 🎯 О проекте
