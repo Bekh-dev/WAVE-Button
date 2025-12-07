@@ -1,7 +1,7 @@
 # WAVE Button - Анимированная кнопка
 
-![Tech](https://img.shields.io/badge/Tech%20Stack-222222?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML5-ffffff?style=flat-square&logo=html5&logoColor=E34F26)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=#E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=#1572B6)
 
 ## 🎯 О проекте
 Интерактивная кнопка с волнообразной анимацией. Идеальный компонент для современных веб-интерфейсов
