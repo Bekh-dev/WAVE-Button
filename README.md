@@ -1,17 +1,22 @@
 # WAVE Button - Анимированная кнопка
 
-<p align="center">
-  <!-- HTML Wave -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-       width="55" 
-       style="margin-right: 30px;" 
-       title="HTML5" />
+<div align="center">
   
-  <!-- CSS Wave -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+### 🎨 Built With
+  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+       alt="HTML5" 
        width="55" 
-       title="CSS3" />
+       height="55" />
+       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+       alt="CSS3" 
+       width="55" 
+       height="55" />
 </p>
+
+</div>
 
 ## 🎯 О проекте
 Интерактивная кнопка с волнообразной анимацией. Идеальный компонент для современных веб-интерфейсов
