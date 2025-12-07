@@ -4,7 +4,6 @@
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=E44D26" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=1572B6" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 </p>
 
 ## 🎯 О проекте
