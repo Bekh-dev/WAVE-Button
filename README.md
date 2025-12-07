@@ -1,11 +1,9 @@
 # WAVE Button - Анимированная кнопка
 
-### 🛸 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat&logo=html5&logoColor=e34c26" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat&logo=css3&logoColor=264de4" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=f0db4f" />
-</p>
+## 🎯 Built With
+| HTML5 | CSS3 | JavaScript |
+|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"> |
 
 ## 🎯 О проекте
 Интерактивная кнопка с волнообразной анимацией. Идеальный компонент для современных веб-интерфейсов
